@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prachi Bhatt</h1>
 <h3 align="center">👨‍💻 An Inquisitive from India.</h3>
 
-- 🌱 I’m currently learning **Android App Development,API Testing,And Natural Language Processing.**
+- 🌱 I’m currently learning ** DSA & Robotic Process Automation.**
 
 
 <h3 align="left">Connect with me:</h3>
